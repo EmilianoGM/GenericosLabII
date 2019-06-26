@@ -1,0 +1,7 @@
+C:\Users\mcmrb\source\repos\Pruebas\Prueba_Sobrecarga\bin\Debug\Prueba_Sobrecarga.exe.config
+C:\Users\mcmrb\source\repos\Pruebas\Prueba_Sobrecarga\bin\Debug\Prueba_Sobrecarga.exe
+C:\Users\mcmrb\source\repos\Pruebas\Prueba_Sobrecarga\bin\Debug\Prueba_Sobrecarga.pdb
+C:\Users\mcmrb\source\repos\Pruebas\Prueba_Sobrecarga\obj\Debug\Prueba_Sobrecarga.csprojAssemblyReference.cache
+C:\Users\mcmrb\source\repos\Pruebas\Prueba_Sobrecarga\obj\Debug\Prueba_Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\mcmrb\source\repos\Pruebas\Prueba_Sobrecarga\obj\Debug\Prueba_Sobrecarga.exe
+C:\Users\mcmrb\source\repos\Pruebas\Prueba_Sobrecarga\obj\Debug\Prueba_Sobrecarga.pdb

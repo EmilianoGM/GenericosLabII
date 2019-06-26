@@ -1,0 +1,10 @@
+C:\Users\mcmrb\source\repos\Pruebas\WindowsFormPrueba\bin\Debug\WindowsFormPrueba.exe.config
+C:\Users\mcmrb\source\repos\Pruebas\WindowsFormPrueba\bin\Debug\WindowsFormPrueba.exe
+C:\Users\mcmrb\source\repos\Pruebas\WindowsFormPrueba\bin\Debug\WindowsFormPrueba.pdb
+C:\Users\mcmrb\source\repos\Pruebas\WindowsFormPrueba\obj\Debug\WindowsFormPrueba.csprojAssemblyReference.cache
+C:\Users\mcmrb\source\repos\Pruebas\WindowsFormPrueba\obj\Debug\WindowsFormPrueba.Form1.resources
+C:\Users\mcmrb\source\repos\Pruebas\WindowsFormPrueba\obj\Debug\WindowsFormPrueba.Properties.Resources.resources
+C:\Users\mcmrb\source\repos\Pruebas\WindowsFormPrueba\obj\Debug\WindowsFormPrueba.csproj.GenerateResource.cache
+C:\Users\mcmrb\source\repos\Pruebas\WindowsFormPrueba\obj\Debug\WindowsFormPrueba.csproj.CoreCompileInputs.cache
+C:\Users\mcmrb\source\repos\Pruebas\WindowsFormPrueba\obj\Debug\WindowsFormPrueba.exe
+C:\Users\mcmrb\source\repos\Pruebas\WindowsFormPrueba\obj\Debug\WindowsFormPrueba.pdb
